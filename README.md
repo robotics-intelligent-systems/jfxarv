@@ -1,6 +1,6 @@
 # ps-arv
 
-IDEAS is a Modelica library for Integrated District Energy Assessment Simulations. Arkup's floating house is a double-decker yacht that doubles as a glassy modern house. The MARS experiment aims at the development of small and stream-lined mobile agricultural robot units to fuel a paradigm shift in farming practices. The directory structure includes a specific folder for each phase of development and engineering programs:
+IDEAS is a Modelica library for Integrated District Energy Assessment Simulations. Arkup's floating house is a double-decker yacht that doubles as a glassy modern house. Modular jack up barge crane dry dock. The directory structure includes a specific folder for each phase of development and engineering programs:
 
 CAD: For computer-aided design.
 CAM: Dedicated to the part manufacturing and assembly process.
